@@ -12,8 +12,69 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES",
+                "ES70",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Serie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Serie A",
+                "Serie B",
+                "Serie C",
+                "Serie D",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Serie temporal",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas en riesgo de pobreza relativa según umbral de pobreza",
+                "Proporción de personas en riesgo de pobreza relativa con alquiler imputado según umbral de pobreza",
+                ""
+              ]
+            },
+            "title": "Serie temporal"
+          },
+          {
+            "name": "Umbral de pobreza",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Umbral nacional de pobreza",
+                "Umbral autonómico de pobreza",
+                ""
+              ]
+            },
+            "title": "Umbral de pobreza"
           },
           {
             "name": "Value",
