@@ -9,7 +9,7 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: 'Territorio'
-    value: 'ES'
+    value: nuts.ES
   - field: 'Territorio'
     value: 'ES70'
   - field: 'Serie'
