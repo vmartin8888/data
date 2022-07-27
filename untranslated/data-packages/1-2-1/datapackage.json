@@ -30,8 +30,7 @@
             "constraints": {
               "enum": [
                 "nuts.ES",
-                "España",
-                "ES70",
+                "nuts.ES70",
                 ""
               ]
             }

@@ -70,8 +70,7 @@
             "constraints": {
               "enum": [
                 "España",
-                "España",
-                "ES70",
+                "Canarias",
                 ""
               ]
             },
