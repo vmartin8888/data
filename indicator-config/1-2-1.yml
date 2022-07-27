@@ -10,8 +10,6 @@ data_show_map: false
 data_start_values:
   - field: 'Territorio'
     value: 'ES'
-  - field: 'Territorio'
-    value: 'ES70'
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
