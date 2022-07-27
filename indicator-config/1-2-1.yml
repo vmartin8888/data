@@ -11,7 +11,7 @@ data_start_values:
   - field: 'Territorio'
     value: nuts.ES
   - field: 'Territorio'
-    value: 'ES70'
+    value: nuts.ES70
   - field: 'Serie'
     value: 'Serie A'
   - field: 'Serie'
