@@ -8,6 +8,8 @@ data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
 data_start_values:
+  - field: 'Territorio'
+    value: 'ES'
   - field: 'Serie'
     value: 'Serie A'
 embedded_feature_footer: ''
