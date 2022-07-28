@@ -3,6 +3,92 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "1-2-1-SERIE-A/data.csv",
+      "name": "1-2-1-SERIE-A",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNIDAD_MEDIDA.PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "general.territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES",
+                "ES53",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "1-2-1-SERIE-A"
+    },
+    {
+      "path": "1-2-1-SERIE-B/data.csv",
+      "name": "1-2-1-SERIE-B",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNIDAD_MEDIDA.PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "general.territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES",
+                "ES53",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "1-2-1-SERIE-B"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
