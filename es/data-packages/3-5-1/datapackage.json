@@ -12,8 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Por 100.000",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes",
+                "Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres",
+                "Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres",
+                "Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes",
+                "Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres",
+                "Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
           },
           {
             "name": "Value",

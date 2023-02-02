@@ -12,7 +12,41 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tasa de crecimiento per cápita de los ingresos de los hogares del 40% más pobre de la población",
+                "Tasa de crecimiento per cápita de los gastos de los hogares de la población total",
+                "Tasa de crecimiento per cápita de los gastos de los hogares del 40% más pobre de la población",
+                "Tasa de crecimiento per cápita de los ingresos de los hogares de la población total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

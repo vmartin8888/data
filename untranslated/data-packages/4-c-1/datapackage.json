@@ -12,11 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción del profesorado de educación preescolar que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo",
+                "Proporción del profesorado de educación primaria que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo",
+                "Proporción del profesorado de educación secundaria inferior que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo",
+                "Proporción del profesorado de educación secundaria superior que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

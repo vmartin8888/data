@@ -12,7 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                "Número",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de centros educativos no universitarios con acceso a electricidad",
+                "Proporción de aulas habituales de clase con conexión a Internet en centros educativos no universitarios",
+                "Alumnado medio por ordenador destinado a tareas de enseñanza y aprendizaje en centros educativos no universitarios",
+                "Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable",
+                "Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo",
+                "Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

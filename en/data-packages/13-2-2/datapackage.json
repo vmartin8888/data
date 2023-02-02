@@ -12,8 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kg de CO2 equivalente por euro de PIB",
+                "Toneladas de CO2 equivalente per cápita",
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB",
+                "Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita",
+                "Emisiones de gases de efecto invernadero respecto al año 1990",
+                "Emisiones de gases de efecto invernadero respecto al año 2005",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
           },
           {
             "name": "Value",

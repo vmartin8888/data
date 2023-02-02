@@ -1,1 +1,41 @@
-Year,Value
+Year,Units,Series,Territorio,Value
+2016,Pernoctaciones,Pernoctaciones de turistas por habitante,España,26.63
+2017,Pernoctaciones,Pernoctaciones de turistas por habitante,España,27.86
+2020,Pernoctaciones,Pernoctaciones de turistas por habitante,España,12.65
+2017,Pernoctaciones,Pernoctaciones de turistas por habitante,Aragón,24.29
+2020,Pernoctaciones,Pernoctaciones de turistas por habitante,Aragón,13.89
+2016,Pernoctaciones,Pernoctaciones de turistas por habitante,Aragón,25.85
+2019,Pernoctaciones,Pernoctaciones de turistas por habitante,Aragón,23.11
+2018,Pernoctaciones,Pernoctaciones de turistas por habitante,España,27.02
+2019,Pernoctaciones,Pernoctaciones de turistas por habitante,España,26.43
+2018,Pernoctaciones,Pernoctaciones de turistas por habitante,Aragón,23.78
+2019,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,España,12.61
+2018,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,España,13.2
+2020,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,España,3.12
+2016,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,España,12.78
+2017,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,Aragón,16.82
+2017,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,España,13.62
+2016,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,Aragón,17.83
+2019,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,Aragón,16.17
+2018,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,Aragón,16.58
+2020,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,Aragón,9.03
+2020,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,Aragón,45.61
+2018,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,España,31.27
+2018,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,Aragón,32.94
+2016,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,España,33.01
+2019,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,Aragón,31.43
+2017,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,España,32.45
+2019,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,España,31.14
+2016,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,Aragón,35.52
+2017,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,Aragón,34.2
+2020,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,España,41.57
+2020,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,Aragón,48.21
+2016,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,Aragón,36.76
+2017,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,España,27.64
+2016,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,España,27.99
+2019,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,España,25.98
+2019,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,Aragón,31.54
+2020,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,España,43.57
+2018,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,España,25.85
+2018,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,Aragón,34.59
+2017,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,Aragón,36.33

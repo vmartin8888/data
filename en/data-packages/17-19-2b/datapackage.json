@@ -1,0 +1,98 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Unnamed: 0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2620",
+                "2621",
+                "2622",
+                "2623",
+                "2624",
+                "2625",
+                "2626",
+                "2627",
+                "2628",
+                "2629",
+                "2630",
+                "2631",
+                "2632",
+                "2633",
+                "2634",
+                "2635",
+                "2636",
+                "2637",
+                "2638",
+                "2639",
+                "2640",
+                "2641",
+                "2642",
+                "2643",
+                ""
+              ]
+            },
+            "title": "Unnamed: 0"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lógica (1=Sí, 0=No)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Canarias",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-19-2b",
+  "title": "17-19-2b"
+}

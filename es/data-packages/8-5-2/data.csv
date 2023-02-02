@@ -1,1 +1,114 @@
-Year,Value
+Year,Units,Series,Territorio,Value
+2017,Porcentaje,Tasa de desempleo,España,17.22
+2014,Porcentaje,Tasa de desempleo,España,24.44
+2012,Porcentaje,Tasa de desempleo,Aragón,18.67
+2010,Porcentaje,Tasa de desempleo,Aragón,14.96
+2012,Porcentaje,Tasa de desempleo,España,24.79
+2015,Porcentaje,Tasa de desempleo,Aragón,16.29
+2013,Porcentaje,Tasa de desempleo,España,26.09
+2011,Porcentaje,Tasa de desempleo,Aragón,17.07
+2018,Porcentaje,Tasa de desempleo,Aragón,10.63
+2016,Porcentaje,Tasa de desempleo,España,19.63
+2015,Porcentaje,Tasa de desempleo,España,22.06
+2019,Porcentaje,Tasa de desempleo,Aragón,10.03
+2017,Porcentaje,Tasa de desempleo,Aragón,11.65
+2018,Porcentaje,Tasa de desempleo,España,15.25
+2021,Porcentaje,Tasa de desempleo,España,14.78
+2016,Porcentaje,Tasa de desempleo,Aragón,14.74
+2020,Porcentaje,Tasa de desempleo,Aragón,11.7
+2013,Porcentaje,Tasa de desempleo,Aragón,21.39
+2010,Porcentaje,Tasa de desempleo,España,19.86
+2020,Porcentaje,Tasa de desempleo,España,15.53
+2019,Porcentaje,Tasa de desempleo,España,14.1
+2011,Porcentaje,Tasa de desempleo,España,21.39
+2014,Porcentaje,Tasa de desempleo,Aragón,20.17
+2016,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,Aragón,23.14
+2018,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,España,25.2
+2014,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,Aragón,34.24
+2014,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,España,32.7
+2019,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,España,23.9
+2017,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,España,26.2
+2017,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,Aragón,22.72
+2020,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,España,22.2
+2018,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,Aragón,14.66
+2015,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,España,31.0
+2019,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,Aragón,17.33
+2020,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,Aragón,14.56
+2015,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,Aragón,24.24
+2016,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad,España,28.6
+2018,Porcentaje,Tasa de desempleo de hombres,España,13.72
+2015,Porcentaje,Tasa de desempleo de hombres,España,20.77
+2021,Porcentaje,Tasa de desempleo de hombres,España,13.05
+2019,Porcentaje,Tasa de desempleo de hombres,Aragón,8.79
+2021,Porcentaje,Tasa de desempleo de hombres,Aragón,8.49
+2018,Porcentaje,Tasa de desempleo de hombres,Aragón,9.33
+2020,Porcentaje,Tasa de desempleo de hombres,España,13.87
+2017,Porcentaje,Tasa de desempleo de hombres,Aragón,9.02
+2019,Porcentaje,Tasa de desempleo de hombres,España,12.45
+2016,Porcentaje,Tasa de desempleo de hombres,Aragón,12.11
+2011,Porcentaje,Tasa de desempleo de hombres,Aragón,16.88
+2012,Porcentaje,Tasa de desempleo de hombres,España,24.58
+2012,Porcentaje,Tasa de desempleo de hombres,Aragón,17.74
+2011,Porcentaje,Tasa de desempleo de hombres,España,21.04
+2020,Porcentaje,Tasa de desempleo de hombres,Aragón,10.09
+2014,Porcentaje,Tasa de desempleo de hombres,España,23.6
+2015,Porcentaje,Tasa de desempleo de hombres,Aragón,13.29
+2017,Porcentaje,Tasa de desempleo de hombres,España,15.66
+2010,Porcentaje,Tasa de desempleo de hombres,Aragón,14.19
+2013,Porcentaje,Tasa de desempleo de hombres,Aragón,20.32
+2014,Porcentaje,Tasa de desempleo de hombres,Aragón,18.25
+2016,Porcentaje,Tasa de desempleo de hombres,España,18.12
+2013,Porcentaje,Tasa de desempleo de hombres,España,25.6
+2010,Porcentaje,Tasa de desempleo de hombres,España,19.57
+2013,Porcentaje,Tasa de desempleo de mujeres,España,26.67
+2020,Porcentaje,Tasa de desempleo de mujeres,Aragón,13.56
+2021,Porcentaje,Tasa de desempleo de mujeres,Aragón,12.03
+2019,Porcentaje,Tasa de desempleo de mujeres,España,15.99
+2017,Porcentaje,Tasa de desempleo de mujeres,Aragón,14.75
+2015,Porcentaje,Tasa de desempleo de mujeres,España,23.55
+2014,Porcentaje,Tasa de desempleo de mujeres,España,25.43
+2017,Porcentaje,Tasa de desempleo de mujeres,España,19.03
+2020,Porcentaje,Tasa de desempleo de mujeres,España,17.43
+2019,Porcentaje,Tasa de desempleo de mujeres,Aragón,11.49
+2021,Porcentaje,Tasa de desempleo de mujeres,España,16.71
+2014,Porcentaje,Tasa de desempleo de mujeres,Aragón,22.48
+2013,Porcentaje,Tasa de desempleo de mujeres,Aragón,22.67
+2012,Porcentaje,Tasa de desempleo de mujeres,Aragón,19.8
+2010,Porcentaje,Tasa de desempleo de mujeres,España,20.22
+2012,Porcentaje,Tasa de desempleo de mujeres,España,25.03
+2018,Porcentaje,Tasa de desempleo de mujeres,España,17.02
+2011,Porcentaje,Tasa de desempleo de mujeres,España,21.81
+2016,Porcentaje,Tasa de desempleo de mujeres,Aragón,17.84
+2010,Porcentaje,Tasa de desempleo de mujeres,Aragón,15.94
+2011,Porcentaje,Tasa de desempleo de mujeres,Aragón,17.32
+2018,Porcentaje,Tasa de desempleo de mujeres,Aragón,12.16
+2015,Porcentaje,Tasa de desempleo de mujeres,Aragón,19.9
+2016,Porcentaje,Tasa de desempleo de mujeres,España,21.38
+2019,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,España,13.9
+2017,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,España,17.1
+2020,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,España,15.4
+2015,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,Aragón,16.18
+2016,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,España,19.5
+2018,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,España,15.1
+2019,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,Aragón,9.89
+2018,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,Aragón,10.58
+2014,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,España,24.3
+2014,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,Aragón,19.87
+2017,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,Aragón,11.49
+2015,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,España,21.9
+2020,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,Aragón,11.72
+2016,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad,Aragón,14.64
+2014,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,España,24.6
+2018,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,España,15.4
+2019,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,Aragón,10.09
+2017,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,Aragón,11.73
+2020,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,España,15.6
+2020,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,Aragón,11.79
+2017,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,España,17.3
+2016,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,Aragón,14.86
+2016,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,España,19.7
+2014,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,Aragón,20.26
+2015,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,España,22.2
+2018,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,Aragón,10.69
+2015,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,Aragón,16.39
+2019,Porcentaje,Tasa de desempleo de las personas entre 16 y 64 años,España,14.2

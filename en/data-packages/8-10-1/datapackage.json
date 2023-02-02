@@ -12,8 +12,74 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Unnamed: 0",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2782",
+                "2783",
+                "2784",
+                "2785",
+                "2786",
+                "2787",
+                "2788",
+                "2789",
+                "2790",
+                "2791",
+                "2792",
+                "2793",
+                "2794",
+                "2795",
+                "2796",
+                "2797",
+                "2798",
+                "2799",
+                "2800",
+                "2801",
+                "2802",
+                "2803",
+                ""
+              ]
+            },
+            "title": "Unnamed: 0"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Por 100.000",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canarias",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
           },
           {
             "name": "Value",

@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cobertura de vacunación de recuerdo contra difteria, tétanos y tosferina en la población infantil",
+                "Cobertura de vacunación de recuerdo contra neumococo en la población infantil",
+                "Cobertura de vacunación de segunda dosis contra sarampión, rubeola y parotiditis en la población infantil",
+                "Cobertura de vacunación de segunda dosis contra papiloma humano en las adolescentes",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
           },
           {
             "name": "Value",
