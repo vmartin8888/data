@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 9: Construir infraestructuras resilientes, promover la industrialización inclusiva y sostenible y fomentar la innovación.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 9.4: De aquí a 2030, modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, utilizando los recursos con mayor eficacia y promoviendo la adopción de tecnologías y procesos industriales limpios y ambientalmente racionales, y logrando que todos los países tomen medidas de acuerdo con sus capacidades respectivas.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 9.4.1: Emisiones de CO2 por unidad de valor añadido.</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/9.4.1.1.pdf' target='_blank'>Serie 9.4.1.1: Emisiones de CO2 de las unidades residentes por unidad de PIB.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/9.4.1.2.pdf' target='_blank'>Serie 9.4.1.2: Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/9.4.1.5.pdf' target='_blank'>Serie 9.4.1.5: Emisiones de CO2 respecto al año 1990.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/9.4.1.6.pdf' target='_blank'>Serie 9.4.1.6: Emisiones de CO2 respecto al año 2005.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 9.4.1.1: Kg de CO2 equivalente por euro de PIB.</a> <br> <a>Serie 9.4.1.2: Kg de CO2 equivalente por euro de PIB.</a> <br> <a>Serie 9.4.1.5: Porcentaje.</a> <br> <a>Serie 9.4.1.6: Porcentaje.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 9.4.1.1: Inventarios nacionales de emisiones a la atmósfera, Ministerio para la Transición Ecológica y Reto Demográfico.</a> <br> <a>Serie 9.4.1.2: Inventarios nacionales de emisiones a la atmósfera, Ministerio para la Transición Ecológica y Reto Demográfico.</a> <br> <a>Serie 9.4.1.5: Inventario nacional de gases de efecto invernadero (GEI), Ministerio para la Transición Ecológica y el Reto Demográfico.</a> <br> <a>Serie 9.4.1.6: Inventario nacional de gases de efecto invernadero (GEI), Ministerio para la Transición Ecológica y el Reto Demográfico.</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 

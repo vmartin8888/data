@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 8: Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 8.10: Fortalecer la capacidad de las instituciones financieras nacionales para fomentar y ampliar el acceso a los servicios bancarios, financieros y de seguros para todos.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 8.10.1: a) Número de sucursales de bancos comerciales por cada 100.000 adultos y b) número de cajeros automáticos por cada 100.000 adultos.</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/8.10.1.1.pdf' target='_blank'>Serie 8.10.1.1: Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 8.10.1.1: Por 100.000.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 8.10.1.1: Entidades de crédito y establecimientos financieros de crédito, Banco de España.</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 

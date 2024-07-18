@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 8: Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 8.9: De aquí a 2030, elaborar y poner en práctica políticas encaminadas a promover un turismo sostenible que cree puestos de trabajo y promueva la cultura y los productos locales.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 8.9.1: PIB generado directamente por el turismo en proporción al PIB total y a la tasa de crecimiento.</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/8.9.1.3.a.pdf' target='_blank'>Serie 8.9.1.3.a: Pernoctaciones de turistas por habitante.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/8.9.1.3.b.pdf' target='_blank'>Serie 8.9.1.3.b: Pernoctaciones de turistas no residentes por habitante.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/8.9.1.3.c.pdf' target='_blank'>Serie 8.9.1.3.c: Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/8.9.1.3.d.pdf' target='_blank'>Serie 8.9.1.3.d: Proporción del gasto en viajes culturales sobre el gasto en viajes.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/8.9.1.4.a.pdf' target='_blank'>Serie 8.9.1.4.a: Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/8.9.1.4.b.pdf' target='_blank'>Serie 8.9.1.4.b: Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/8.9.1.5.pdf' target='_blank'>Serie 8.9.1.5: Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/8.9.1.6.pdf' target='_blank'>Serie 8.9.1.6: Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/8.9.1.7.pdf' target='_blank'>Serie 8.9.1.7: Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 8.9.1.3.a: Pernoctaciones.</a> <br> <a>Serie 8.9.1.3.b: Pernoctaciones.</a> <br> <a>Serie 8.9.1.3.c: Porcentaje.</a> <br> <a>Serie 8.9.1.3.d: Porcentaje.</a> <br> <a>Serie 8.9.1.4.a: Porcentaje.</a> <br> <a>Serie 8.9.1.4.b: Porcentaje.</a> <br> <a>Serie 8.9.1.5: Porcentaje.</a> <br> <a>Serie 8.9.1.6: Porcentaje.</a> <br> <a>Serie 8.9.1.7: Porcentaje.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 8.9.1.3.a: Encuesta de turismo de residentes, Instituto Nacional de Estadística (INE).Encuesta de gasto turístico, Instituto Nacional de Estadística (INE).Cifras de población, Instituto Nacional de Estadística (INE).</a> <br> <a>Serie 8.9.1.3.b: Encuesta de turismo de residentes, Instituto Nacional de Estadística (INE).Encuesta de gasto turístico, Instituto Nacional de Estadística (INE).Cifras de población, Instituto Nacional de Estadística (INE).</a> <br> <a>Serie 8.9.1.3.c: Encuesta de turismo de residentes, Instituto Nacional de Estadística (INE). Encuesta de gasto turístico, Instituto Nacional de Estadística (INE).</a> <br> <a>Serie 8.9.1.3.d: Encuesta de turismo de residentes, Instituto Nacional de Estadística (INE). Encuesta de gasto turístico, Instituto Nacional de Estadística (INE).</a> <br> <a>Serie 8.9.1.4.a: Encuesta de turismo de residentes, Instituto Nacional de Estadística (INE).Encuesta de gasto turístico, Instituto Nacional de Estadística (INE).</a> <br> <a>Serie 8.9.1.4.b: Encuesta de turismo de residentes, Instituto Nacional de Estadística (INE).Encuesta de gasto turístico, Instituto Nacional de Estadística (INE).</a> <br> <a>Serie 8.9.1.5: Encuesta de población activa, Instituto Nacional de Estadística (INE).</a> <br> <a>Serie 8.9.1.6: Encuesta de población activa, Instituto Nacional de Estadística (INE).</a> <br> <a>Serie 8.9.1.7: Encuesta de población activa, Instituto Nacional de Estadística (INE).</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 
