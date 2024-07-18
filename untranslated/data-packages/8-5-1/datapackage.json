@@ -12,7 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Euros",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ingreso medio por hora de trabajo",
+                "Ingreso medio por hora de trabajo de las personas con discapacidad",
+                "Ingreso medio por hora de trabajo de las mujeres",
+                "Ingreso medio por hora de trabajo de los hombres",
+                "Ingreso medio por hora de trabajo de las personas sin discapacidad",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

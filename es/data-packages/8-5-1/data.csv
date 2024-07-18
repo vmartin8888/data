@@ -1,1 +1,121 @@
-Year,Value
+Year,Units,Series,Territorio,Value
+2012,Euros,Ingreso medio por hora de trabajo,España,14.57
+2013,Euros,Ingreso medio por hora de trabajo,Aragón,14.28
+2017,Euros,Ingreso medio por hora de trabajo,España,15.13
+2011,Euros,Ingreso medio por hora de trabajo,España,14.53
+2017,Euros,Ingreso medio por hora de trabajo,Aragón,14.79
+2020,Euros,Ingreso medio por hora de trabajo,Aragón,15.48
+2021,Euros,Ingreso medio por hora de trabajo,España,16.54
+2016,Euros,Ingreso medio por hora de trabajo,España,14.88
+2015,Euros,Ingreso medio por hora de trabajo,España,15.01
+2011,Euros,Ingreso medio por hora de trabajo,Aragón,14.07
+2021,Euros,Ingreso medio por hora de trabajo,Aragón,15.98
+2020,Euros,Ingreso medio por hora de trabajo,España,16.15
+2014,Euros,Ingreso medio por hora de trabajo,España,14.8
+2019,Euros,Ingreso medio por hora de trabajo,España,15.85
+2010,Euros,Ingreso medio por hora de trabajo,España,14.52
+2019,Euros,Ingreso medio por hora de trabajo,Aragón,15.43
+2013,Euros,Ingreso medio por hora de trabajo,España,14.64
+2015,Euros,Ingreso medio por hora de trabajo,Aragón,14.57
+2010,Euros,Ingreso medio por hora de trabajo,Aragón,14.28
+2018,Euros,Ingreso medio por hora de trabajo,España,15.54
+2018,Euros,Ingreso medio por hora de trabajo,Aragón,15.29
+2016,Euros,Ingreso medio por hora de trabajo,Aragón,14.41
+2014,Euros,Ingreso medio por hora de trabajo,Aragón,14.41
+2012,Euros,Ingreso medio por hora de trabajo,Aragón,14.19
+2016,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,España,12.7
+2011,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,Aragón,12.7
+2021,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,España,14.3
+2012,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,Aragón,13.2
+2010,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,Aragón,12.1
+2015,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,España,13.0
+2015,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,Aragón,14.0
+2010,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,España,13.1
+2011,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,España,13.2
+2016,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,Aragón,13.5
+2014,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,España,12.3
+2018,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,España,13.1
+2013,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,Aragón,13.6
+2020,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,España,13.9
+2014,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,Aragón,12.2
+2013,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,España,12.6
+2020,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,Aragón,13.1
+2019,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,España,13.7
+2017,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,España,12.9
+2021,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,Aragón,13.7
+2019,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,Aragón,12.4
+2018,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,Aragón,13.8
+2012,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,España,12.8
+2017,Euros,Ingreso medio por hora de trabajo de las personas con discapacidad,Aragón,11.7
+2018,Euros,Ingreso medio por hora de trabajo de las mujeres,Aragón,13.9
+2017,Euros,Ingreso medio por hora de trabajo de las mujeres,Aragón,13.41
+2015,Euros,Ingreso medio por hora de trabajo de las mujeres,Aragón,13.19
+2013,Euros,Ingreso medio por hora de trabajo de las mujeres,España,13.21
+2017,Euros,Ingreso medio por hora de trabajo de las mujeres,España,13.93
+2014,Euros,Ingreso medio por hora de trabajo de las mujeres,España,13.56
+2020,Euros,Ingreso medio por hora de trabajo de las mujeres,Aragón,14.45
+2015,Euros,Ingreso medio por hora de trabajo de las mujeres,España,13.8
+2010,Euros,Ingreso medio por hora de trabajo de las mujeres,España,13.24
+2016,Euros,Ingreso medio por hora de trabajo de las mujeres,Aragón,13.04
+2012,Euros,Ingreso medio por hora de trabajo de las mujeres,España,13.1
+2016,Euros,Ingreso medio por hora de trabajo de las mujeres,España,13.6
+2011,Euros,Ingreso medio por hora de trabajo de las mujeres,Aragón,12.4
+2021,Euros,Ingreso medio por hora de trabajo de las mujeres,España,15.61
+2019,Euros,Ingreso medio por hora de trabajo de las mujeres,Aragón,14.28
+2014,Euros,Ingreso medio por hora de trabajo de las mujeres,Aragón,13.07
+2011,Euros,Ingreso medio por hora de trabajo de las mujeres,España,13.12
+2019,Euros,Ingreso medio por hora de trabajo de las mujeres,España,14.92
+2021,Euros,Ingreso medio por hora de trabajo de las mujeres,Aragón,15.06
+2013,Euros,Ingreso medio por hora de trabajo de las mujeres,Aragón,12.6
+2012,Euros,Ingreso medio por hora de trabajo de las mujeres,Aragón,12.22
+2020,Euros,Ingreso medio por hora de trabajo de las mujeres,España,15.22
+2010,Euros,Ingreso medio por hora de trabajo de las mujeres,Aragón,12.6
+2018,Euros,Ingreso medio por hora de trabajo de las mujeres,España,14.36
+2013,Euros,Ingreso medio por hora de trabajo de los hombres,España,15.87
+2010,Euros,Ingreso medio por hora de trabajo de los hombres,Aragón,15.6
+2015,Euros,Ingreso medio por hora de trabajo de los hombres,España,16.04
+2018,Euros,Ingreso medio por hora de trabajo de los hombres,España,16.52
+2019,Euros,Ingreso medio por hora de trabajo de los hombres,Aragón,16.32
+2021,Euros,Ingreso medio por hora de trabajo de los hombres,España,17.3
+2011,Euros,Ingreso medio por hora de trabajo de los hombres,Aragón,15.36
+2021,Euros,Ingreso medio por hora de trabajo de los hombres,Aragón,16.69
+2020,Euros,Ingreso medio por hora de trabajo de los hombres,Aragón,16.29
+2019,Euros,Ingreso medio por hora de trabajo de los hombres,España,16.63
+2017,Euros,Ingreso medio por hora de trabajo de los hombres,España,16.1
+2016,Euros,Ingreso medio por hora de trabajo de los hombres,Aragón,15.47
+2010,Euros,Ingreso medio por hora de trabajo de los hombres,España,15.56
+2014,Euros,Ingreso medio por hora de trabajo de los hombres,España,15.84
+2018,Euros,Ingreso medio por hora de trabajo de los hombres,Aragón,16.4
+2020,Euros,Ingreso medio por hora de trabajo de los hombres,España,16.92
+2012,Euros,Ingreso medio por hora de trabajo de los hombres,España,15.83
+2013,Euros,Ingreso medio por hora de trabajo de los hombres,Aragón,15.7
+2016,Euros,Ingreso medio por hora de trabajo de los hombres,España,15.94
+2011,Euros,Ingreso medio por hora de trabajo de los hombres,España,15.68
+2017,Euros,Ingreso medio por hora de trabajo de los hombres,Aragón,15.83
+2015,Euros,Ingreso medio por hora de trabajo de los hombres,Aragón,15.74
+2014,Euros,Ingreso medio por hora de trabajo de los hombres,Aragón,15.49
+2012,Euros,Ingreso medio por hora de trabajo de los hombres,Aragón,15.8
+2015,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,Aragón,14.6
+2012,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,Aragón,14.2
+2011,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,Aragón,14.1
+2018,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,Aragón,15.3
+2019,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,15.9
+2017,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,Aragón,14.9
+2010,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,14.6
+2021,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,Aragón,16.0
+2019,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,Aragón,15.5
+2013,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,Aragón,14.3
+2010,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,Aragón,14.3
+2016,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,Aragón,14.4
+2014,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,Aragón,14.5
+2021,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,16.6
+2020,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,16.2
+2016,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,14.9
+2020,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,Aragón,15.5
+2018,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,15.6
+2017,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,15.2
+2014,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,14.9
+2015,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,15.1
+2013,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,14.7
+2011,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,14.6
+2012,Euros,Ingreso medio por hora de trabajo de las personas sin discapacidad,España,14.6

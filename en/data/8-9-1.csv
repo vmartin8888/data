@@ -1,1 +1,167 @@
-Year,Value
+Year,Units,Series,Territorio,Value
+2019,Pernoctaciones,Pernoctaciones de turistas por habitante,Aragón,23.11
+2016,Pernoctaciones,Pernoctaciones de turistas por habitante,Aragón,25.86
+2020,Pernoctaciones,Pernoctaciones de turistas por habitante,Aragón,13.88
+2017,Pernoctaciones,Pernoctaciones de turistas por habitante,España,27.87
+2021,Pernoctaciones,Pernoctaciones de turistas por habitante,Aragón,16.47
+2018,Pernoctaciones,Pernoctaciones de turistas por habitante,España,27.03
+2016,Pernoctaciones,Pernoctaciones de turistas por habitante,España,26.65
+2022,Pernoctaciones,Pernoctaciones de turistas por habitante,España,23.97
+2018,Pernoctaciones,Pernoctaciones de turistas por habitante,Aragón,23.78
+2019,Pernoctaciones,Pernoctaciones de turistas por habitante,España,26.44
+2017,Pernoctaciones,Pernoctaciones de turistas por habitante,Aragón,24.3
+2021,Pernoctaciones,Pernoctaciones de turistas por habitante,España,17.13
+2022,Pernoctaciones,Pernoctaciones de turistas por habitante,Aragón,21.17
+2020,Pernoctaciones,Pernoctaciones de turistas por habitante,España,12.65
+2021,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,Aragón,10.44
+2018,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,España,13.2
+2021,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,España,5.36
+2020,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,Aragón,9.03
+2022,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,Aragón,14.63
+2016,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,España,12.78
+2016,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,Aragón,17.83
+2019,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,España,12.62
+2019,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,Aragón,16.17
+2022,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,España,11.25
+2017,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,España,13.62
+2018,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,Aragón,16.58
+2020,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,España,3.13
+2017,Pernoctaciones,Pernoctaciones de turistas no residentes por habitante,Aragón,16.83
+2018,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",España,16.7
+2016,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",España,14.04
+2021,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",España,16.15
+2019,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",Aragón,35.32
+2020,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",España,16.8
+2017,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",Aragón,34.88
+2018,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",Aragón,36.92
+2016,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",Aragón,39.44
+2023,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",Aragón,32.95
+2019,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",España,18.5
+2022,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",España,19.58
+2022,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",Aragón,30.12
+2020,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",Aragón,23.37
+2017,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",España,17.69
+2021,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",Aragón,25.44
+2023,Porcentaje,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones",España,22.4
+2016,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,Aragón,19.42
+2020,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,Aragón,14.14
+2021,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,España,11.88
+2023,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,Aragón,19.68
+2018,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,Aragón,22.03
+2021,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,Aragón,14.98
+2019,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,Aragón,22.8
+2016,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,España,10.8
+2017,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,España,13.94
+2017,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,Aragón,20.26
+2019,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,España,14.79
+2018,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,España,13.32
+2022,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,España,15.4
+2023,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,España,17.73
+2020,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,España,11.94
+2022,Porcentaje,Proporción del gasto en viajes culturales sobre el gasto en viajes,Aragón,19.62
+2018,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,Aragón,32.94
+2018,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,España,31.27
+2019,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,España,31.14
+2016,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,Aragón,35.52
+2020,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,Aragón,45.61
+2021,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,Aragón,40.12
+2019,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,Aragón,31.43
+2021,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,España,39.93
+2020,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,España,41.57
+2017,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,Aragón,34.2
+2022,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,Aragón,35.53
+2017,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,España,32.45
+2016,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,España,33.01
+2022,Porcentaje,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas,España,31.97
+2022,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,Aragón,36.53
+2020,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,Aragón,48.21
+2017,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,España,27.64
+2021,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,Aragón,42.71
+2019,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,Aragón,31.54
+2019,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,España,25.98
+2018,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,Aragón,34.59
+2016,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,Aragón,36.76
+2018,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,España,25.85
+2020,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,España,43.57
+2017,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,Aragón,36.33
+2021,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,España,33.04
+2022,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,España,25.98
+2016,Porcentaje,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes,España,27.99
+2012,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,Aragón,2.11
+2022,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,España,3.4
+2018,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,Aragón,2.3
+2021,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,España,3.5
+2016,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,Aragón,2.92
+2017,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,Aragón,2.18
+2018,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,España,3.6
+2014,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,Aragón,2.92
+2023,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,España,3.3
+2020,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,España,3.5
+2011,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,Aragón,2.99
+2019,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,Aragón,2.59
+2020,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,Aragón,2.49
+2017,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,España,3.7
+2019,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,España,3.6
+2021,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,Aragón,2.78
+2014,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,España,3.5
+2011,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,España,3.3
+2016,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,España,3.6
+2015,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,Aragón,3.14
+2015,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,España,3.5
+2023,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,Aragón,2.5
+2013,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,Aragón,2.11
+2022,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,Aragón,3.28
+2012,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,España,3.2
+2013,Porcentaje,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas,España,3.3
+2019,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,Aragón,2.59
+2018,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,España,4.0
+2022,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,Aragón,3.85
+2020,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,España,3.8
+2014,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,España,3.9
+2023,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,Aragón,2.84
+2021,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,España,3.8
+2018,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,Aragón,2.36
+2020,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,Aragón,2.28
+2021,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,Aragón,3.01
+2017,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,España,4.1
+2013,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,España,3.8
+2015,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,España,3.9
+2019,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,España,4.0
+2017,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,Aragón,2.58
+2016,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,España,4.0
+2012,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,España,3.6
+2011,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,España,3.7
+2012,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,Aragón,2.37
+2011,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,Aragón,3.04
+2016,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,Aragón,3.36
+2023,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,España,3.9
+2014,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,Aragón,3.05
+2022,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,España,3.7
+2013,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,Aragón,2.06
+2015,Porcentaje,Proporción de hombres ocupados en el sector cultural sobre el total de hombres ocupados,Aragón,3.6
+2015,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,Aragón,2.54
+2021,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,España,3.1
+2012,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,España,2.8
+2011,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,Aragón,2.93
+2017,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,España,3.2
+2015,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,España,2.9
+2013,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,España,2.8
+2022,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,España,3.0
+2011,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,España,2.8
+2023,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,España,3.0
+2012,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,Aragón,1.78
+2019,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,España,3.1
+2017,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,Aragón,1.69
+2018,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,España,3.1
+2014,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,España,2.9
+2022,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,Aragón,2.61
+2016,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,España,3.1
+2023,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,Aragón,2.1
+2016,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,Aragón,2.37
+2018,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,Aragón,2.23
+2020,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,Aragón,2.73
+2013,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,Aragón,2.18
+2020,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,España,3.2
+2014,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,Aragón,2.75
+2021,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,Aragón,2.52
+2019,Porcentaje,Proporción de mujeres ocupadas en el sector cultural sobre el total de mujeres ocupadas,Aragón,2.59
