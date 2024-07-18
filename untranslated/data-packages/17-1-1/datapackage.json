@@ -12,7 +12,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

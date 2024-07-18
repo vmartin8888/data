@@ -12,8 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Volumen de remesas enviadas al extranjero en proporción al PIB",
+                "Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB",
+                "Ingresos fiscales de las administraciones públicas autonómicas en proporción al PIB",
+                "Tasa de variación interanual del PIB real",
+                "Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB",
+                "Tasa de desempleo",
+                "Tasa de variación interanual del índice de precios de consumo",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
           },
           {
             "name": "Value",

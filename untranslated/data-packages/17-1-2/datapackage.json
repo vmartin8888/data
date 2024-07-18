@@ -12,7 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuestos",
+                "Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

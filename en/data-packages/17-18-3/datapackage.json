@@ -12,12 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lógica (1=Sí, 0=No)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Se dispone de un plan estadístico autonómico plenamente financiado y en fase de aplicación",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

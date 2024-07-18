@@ -121,6 +121,64 @@
       "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically"
     },
     {
+      "path": "17-18-2/data.csv",
+      "name": "17-18-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lógica (1=Sí, 0=No)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "La legislación sobre estadísticas cumple los Principios Fundamentales de las Estadísticas Oficiales",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics"
+    },
+    {
       "path": "11-5-1/data.csv",
       "name": "11-5-1",
       "profile": "tabular-data-resource",
@@ -846,6 +904,64 @@
       "title": "Proportion of population living in households with access to basic services"
     },
     {
+      "path": "15-8-1/data.csv",
+      "name": "15-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lógica (1=Sí, 0=No)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Se dispone de legislación pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
+    },
+    {
       "path": "9-c-1/data.csv",
       "name": "9-c-1",
       "profile": "tabular-data-resource",
@@ -1203,6 +1319,65 @@
       "title": "Annual growth rate of real GDP per employed person"
     },
     {
+      "path": "17-1-2/data.csv",
+      "name": "17-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuestos",
+                "Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of domestic budget funded by domestic taxes"
+    },
+    {
       "path": "11-1-1/data.csv",
       "name": "11-1-1",
       "profile": "tabular-data-resource",
@@ -1318,6 +1493,66 @@
         ]
       },
       "title": "Suicide mortality rate"
+    },
+    {
+      "path": "17-3-2/data.csv",
+      "name": "17-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                "Millones de euros",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Volumen de remesas enviadas al extranjero en proporción al PIB",
+                "Volumen de remesas enviadas al extranjero",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
     },
     {
       "path": "3-3-1/data.csv",
@@ -1443,6 +1678,76 @@
       "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
     },
     {
+      "path": "16-7-1/data.csv",
+      "name": "16-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Índice",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las instituciones sanitarias autonómicas respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las universidades respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en el sector público local respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en los ayuntamientos respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las diputaciones, cabildos y consejos insulares respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en el sector público estatal respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las Fuerzas y Cuerpos de Seguridad del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las Fuerzas Armadas respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en la Administración de Justicia del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en el sector público autonómico respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en la Administración de Justicia Autonómica respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en los centros educativos no universitarios autonómicos respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+    },
+    {
       "path": "4-2-2/data.csv",
       "name": "4-2-2",
       "profile": "tabular-data-resource",
@@ -1564,6 +1869,64 @@
         ]
       },
       "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
+    },
+    {
+      "path": "17-18-3/data.csv",
+      "name": "17-18-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lógica (1=Sí, 0=No)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Se dispone de un plan estadístico autonómico plenamente financiado y en fase de aplicación",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
     },
     {
       "path": "3-2-2/data.csv",
@@ -1742,6 +2105,70 @@
         ]
       },
       "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
+    },
+    {
+      "path": "17-13-1/data.csv",
+      "name": "17-13-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Volumen de remesas enviadas al extranjero en proporción al PIB",
+                "Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB",
+                "Ingresos fiscales de las administraciones públicas autonómicas en proporción al PIB",
+                "Tasa de variación interanual del PIB real",
+                "Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB",
+                "Tasa de desempleo",
+                "Tasa de variación interanual del índice de precios de consumo",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Macroeconomic Dashboard"
     },
     {
       "path": "9-5-1/data.csv",
@@ -2041,6 +2468,66 @@
       "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
     },
     {
+      "path": "15-2-1/data.csv",
+      "name": "15-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hectáreas",
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Superficie forestal con instrumentos de gestión sostenible vigentes",
+                "Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Progress towards sustainable forest management"
+    },
+    {
       "path": "8-5-1/data.csv",
       "name": "8-5-1",
       "profile": "tabular-data-resource",
@@ -2280,6 +2767,69 @@
         ]
       },
       "title": "Proportion of population living below the national poverty line, by sex and age"
+    },
+    {
+      "path": "13-2-2/data.csv",
+      "name": "13-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kg de CO2 equivalente por euro de PIB",
+                "Toneladas de CO2 equivalente per cápita",
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB",
+                "Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita",
+                "Emisiones de gases de efecto invernadero respecto al año 1990",
+                "Emisiones de gases de efecto invernadero respecto al año 2005",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total greenhouse gas emissions per year"
     },
     {
       "path": "4-c-1/data.csv",
@@ -2645,6 +3195,64 @@
       "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
     },
     {
+      "path": "16-9-1/data.csv",
+      "name": "16-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de menores de 5 años cuyo nacimiento se ha registrado ante una autoridad civil",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+    },
+    {
       "path": "9-3-1/data.csv",
       "name": "9-3-1",
       "profile": "tabular-data-resource",
@@ -3004,6 +3612,180 @@
       "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
     },
     {
+      "path": "17-1-1/data.csv",
+      "name": "17-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Total government revenue as a proportion of GDP, by source"
+    },
+    {
+      "path": "16-1-4/data.csv",
+      "name": "16-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population that feel safe walking alone around the area they live"
+    },
+    {
+      "path": "16-3-2/data.csv",
+      "name": "16-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas detenidas que no han sido condenadas respecto al total de personas reclusas",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Unsentenced detainees as a proportion of overall prison population"
+    },
+    {
       "path": "8-10-2/data.csv",
       "name": "8-10-2",
       "profile": "tabular-data-resource",
@@ -3060,6 +3842,242 @@
         ]
       },
       "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
+    },
+    {
+      "path": "17-6-1/data.csv",
+      "name": "17-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Por 100 habitantes",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de líneas de banda ancha fija por cada 100 habitantes",
+                "Número de líneas de banda ancha fija con tecnología de acceso DSL por cada 100 habitantes",
+                "Número de líneas de banda ancha fija con tecnología de acceso HFC por cada 100 habitantes",
+                "Número de líneas de banda ancha fija con tecnología de acceso FTTH por cada 100 habitantes",
+                "Número de líneas de banda ancha fija con otra tecnología de acceso por cada 100 habitantes",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Fixed broadband subscriptions per 100 inhabitants, by speed"
+    },
+    {
+      "path": "13-1-1/data.csv",
+      "name": "13-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Por 100.000 habitantes",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+    },
+    {
+      "path": "15-1-1/data.csv",
+      "name": "15-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Superficie de bosque en proporción a la superficie total",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Forest area as a proportion of total land area"
+    },
+    {
+      "path": "17-19-2a/data.csv",
+      "name": "17-19-2a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lógica (1=Sí, 0=No)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Se ha realizado al menos un censo de población y vivienda en los últimos diez años",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "17-19-2a"
     },
     {
       "path": "6-b-1/data.csv",
@@ -3235,6 +4253,68 @@
         ]
       },
       "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
+    },
+    {
+      "path": "16-2-2/data.csv",
+      "name": "16-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Por 100.000",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes",
+                "Número de víctimas detectadas de tráfico de personas para explotación sexual por cada 100.000 habitantes",
+                "Número de víctimas detectadas de tráfico de personas para explotación laboral por cada 100.000 habitantes",
+                "Número de víctimas detectadas de tráfico de personas para la obtención de órganos por cada 100.000 habitantes",
+                "Número de víctimas detectadas de tráfico de personas para otros fines (matrimonios forzados, criminalidad forzada o mendicidad) por cada 100.000 habitantes",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
     },
     {
       "path": "5-b-1/data.csv",
@@ -3587,6 +4667,64 @@
         ]
       },
       "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
+    },
+    {
+      "path": "17-19-2/data.csv",
+      "name": "17-19-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lógica (1=Sí, 0=No)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
     },
     {
       "path": "3-7-2/data.csv",
@@ -4096,6 +5234,73 @@
       "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
+      "path": "16-6-2/data.csv",
+      "name": "16-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de enseñanza",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de asistencia sanitaria",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de gestión de pensiones",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de administración de justicia",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de seguridad ciudadana",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de servicios sociales",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de transporte público",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de obras públicas",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de ayuda a personas dependientes",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population satisfied with their last experience of public services"
+    },
+    {
       "path": "2-4-1/data.csv",
       "name": "2-4-1",
       "profile": "tabular-data-resource",
@@ -4577,6 +5782,64 @@
       "title": "Mortality rate attributed to unintentional poisoning"
     },
     {
+      "path": "17-8-1/data.csv",
+      "name": "17-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of individuals using the Internet"
+    },
+    {
       "path": "3-4-1/data.csv",
       "name": "3-4-1",
       "profile": "tabular-data-resource",
@@ -4636,6 +5899,68 @@
         ]
       },
       "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+    },
+    {
+      "path": "17-3-1/data.csv",
+      "name": "17-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millones de euros",
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo",
+                "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales",
+                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB",
+                "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales en proporción al PIB",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
     },
     {
       "path": "2-c-1/data.csv",
@@ -4836,30 +6161,6 @@
         ]
       },
       "title": "Proportion of land that is degraded over total land area"
-    },
-    {
-      "path": "16-7-1/data.csv",
-      "name": "16-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
     },
     {
       "path": "16-5-1/data.csv",
@@ -5078,30 +6379,6 @@
       "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector"
     },
     {
-      "path": "16-3-2/data.csv",
-      "name": "16-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Unsentenced detainees as a proportion of overall prison population"
-    },
-    {
       "path": "16-3-3/data.csv",
       "name": "16-3-3",
       "profile": "tabular-data-resource",
@@ -5172,30 +6449,6 @@
         ]
       },
       "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size"
-    },
-    {
-      "path": "17-3-2/data.csv",
-      "name": "17-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Volume of remittances (in United States dollars) as a proportion of total GDP"
     },
     {
       "path": "12-4-1/data.csv",
@@ -5388,30 +6641,6 @@
         ]
       },
       "title": "Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education"
-    },
-    {
-      "path": "16-2-2/data.csv",
-      "name": "16-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
     },
     {
       "path": "6-a-1/data.csv",
@@ -5654,78 +6883,6 @@
       "title": "Prevalence of undernourishment"
     },
     {
-      "path": "17-1-1/data.csv",
-      "name": "17-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Total government revenue as a proportion of GDP, by source"
-    },
-    {
-      "path": "17-6-1/data.csv",
-      "name": "17-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Fixed broadband subscriptions per 100 inhabitants, by speed"
-    },
-    {
-      "path": "13-2-2/data.csv",
-      "name": "13-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Total greenhouse gas emissions per year"
-    },
-    {
       "path": "17-7-1/data.csv",
       "name": "17-7-1",
       "profile": "tabular-data-resource",
@@ -5748,30 +6905,6 @@
         ]
       },
       "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
-    },
-    {
-      "path": "17-18-2/data.csv",
-      "name": "17-18-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics"
     },
     {
       "path": "6-4-2/data.csv",
@@ -5940,30 +7073,6 @@
         ]
       },
       "title": "Redistributive impact of fiscal policy"
-    },
-    {
-      "path": "17-18-3/data.csv",
-      "name": "17-18-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
     },
     {
       "path": "11-7-1/data.csv",
@@ -6422,54 +7531,6 @@
       "title": "Change in the extent of water-related ecosystems over time"
     },
     {
-      "path": "15-8-1/data.csv",
-      "name": "15-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
-    },
-    {
-      "path": "17-13-1/data.csv",
-      "name": "17-13-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Macroeconomic Dashboard"
-    },
-    {
       "path": "9-1-2/data.csv",
       "name": "9-1-2",
       "profile": "tabular-data-resource",
@@ -6926,30 +7987,6 @@
       "title": "Proportion of population with access to electricity"
     },
     {
-      "path": "17-8-1/data.csv",
-      "name": "17-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of individuals using the Internet"
-    },
-    {
       "path": "11-3-1/data.csv",
       "name": "11-3-1",
       "profile": "tabular-data-resource",
@@ -6996,30 +8033,6 @@
         ]
       },
       "title": "Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people"
-    },
-    {
-      "path": "16-6-2/data.csv",
-      "name": "16-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population satisfied with their last experience of public services"
     },
     {
       "path": "3-b-3/data.csv",
@@ -7166,30 +8179,6 @@
       "title": "Number of countries implementing sustainable public procurement policies and action plans"
     },
     {
-      "path": "15-1-1/data.csv",
-      "name": "15-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Forest area as a proportion of total land area"
-    },
-    {
       "path": "2-1-2/data.csv",
       "name": "2-1-2",
       "profile": "tabular-data-resource",
@@ -7334,30 +8323,6 @@
       "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
     },
     {
-      "path": "16-9-1/data.csv",
-      "name": "16-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
-    },
-    {
       "path": "14-5-1/data.csv",
       "name": "14-5-1",
       "profile": "tabular-data-resource",
@@ -7428,30 +8393,6 @@
         ]
       },
       "title": "Material footprint, material footprint per capita, and material footprint per GDP"
-    },
-    {
-      "path": "17-3-1/data.csv",
-      "name": "17-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income"
     },
     {
       "path": "8-8-1/data.csv",
@@ -7622,30 +8563,6 @@
       "title": "Pro-poor public social spending"
     },
     {
-      "path": "13-1-1/data.csv",
-      "name": "13-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
-    },
-    {
       "path": "2-5-1/data.csv",
       "name": "2-5-1",
       "profile": "tabular-data-resource",
@@ -7740,30 +8657,6 @@
         ]
       },
       "title": "Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025"
-    },
-    {
-      "path": "16-1-4/data.csv",
-      "name": "16-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population that feel safe walking alone around the area they live"
     },
     {
       "path": "15-7-1/data.csv",
@@ -7956,30 +8849,6 @@
         ]
       },
       "title": "Change in water-use efficiency over time"
-    },
-    {
-      "path": "17-1-2/data.csv",
-      "name": "17-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of domestic budget funded by domestic taxes"
     },
     {
       "path": "11-7-2/data.csv",
@@ -8246,30 +9115,6 @@
       "title": "Financial Soundness Indicators"
     },
     {
-      "path": "15-2-1/data.csv",
-      "name": "15-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Progress towards sustainable forest management"
-    },
-    {
       "path": "15-a-1/data.csv",
       "name": "15-a-1",
       "profile": "tabular-data-resource",
@@ -8508,30 +9353,6 @@
         ]
       },
       "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
-    },
-    {
-      "path": "17-19-2/data.csv",
-      "name": "17-19-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration"
     },
     {
       "path": "15-c-1/data.csv",

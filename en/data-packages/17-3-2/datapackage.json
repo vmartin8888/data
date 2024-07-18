@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                "Millones de euros",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Volumen de remesas enviadas al extranjero en proporción al PIB",
+                "Volumen de remesas enviadas al extranjero",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            },
+            "title": "Territorio"
           },
           {
             "name": "Value",

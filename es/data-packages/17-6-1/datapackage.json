@@ -12,8 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Por 100 habitantes",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de líneas de banda ancha fija por cada 100 habitantes",
+                "Número de líneas de banda ancha fija con tecnología de acceso DSL por cada 100 habitantes",
+                "Número de líneas de banda ancha fija con tecnología de acceso HFC por cada 100 habitantes",
+                "Número de líneas de banda ancha fija con tecnología de acceso FTTH por cada 100 habitantes",
+                "Número de líneas de banda ancha fija con otra tecnología de acceso por cada 100 habitantes",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
           },
           {
             "name": "Value",

@@ -12,8 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de enseñanza",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de asistencia sanitaria",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de gestión de pensiones",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de administración de justicia",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de seguridad ciudadana",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de servicios sociales",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de transporte público",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de obras públicas",
+                "Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de ayuda a personas dependientes",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
           },
           {
             "name": "Value",

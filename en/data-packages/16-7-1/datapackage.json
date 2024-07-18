@@ -12,8 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Índice",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las instituciones sanitarias autonómicas respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las universidades respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en el sector público local respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en los ayuntamientos respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las diputaciones, cabildos y consejos insulares respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en el sector público estatal respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las Fuerzas y Cuerpos de Seguridad del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en las Fuerzas Armadas respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en la Administración de Justicia del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en el sector público autonómico respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en la Administración de Justicia Autonómica respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                "Ratio de la proporción de mujeres en los centros educativos no universitarios autonómicos respecto a la proporción de mujeres en la población entre 16 y 64 años",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
           },
           {
             "name": "Value",

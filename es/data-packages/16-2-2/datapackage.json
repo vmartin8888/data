@@ -12,8 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Por 100.000",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes",
+                "Número de víctimas detectadas de tráfico de personas para explotación sexual por cada 100.000 habitantes",
+                "Número de víctimas detectadas de tráfico de personas para explotación laboral por cada 100.000 habitantes",
+                "Número de víctimas detectadas de tráfico de personas para la obtención de órganos por cada 100.000 habitantes",
+                "Número de víctimas detectadas de tráfico de personas para otros fines (matrimonios forzados, criminalidad forzada o mendicidad) por cada 100.000 habitantes",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
           },
           {
             "name": "Value",

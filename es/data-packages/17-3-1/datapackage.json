@@ -12,8 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Millones de euros",
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo",
+                "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales",
+                "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB",
+                "Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales en proporción al PIB",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "España",
+                "Aragón",
+                ""
+              ]
+            },
+            "title": "Territorio"
           },
           {
             "name": "Value",
