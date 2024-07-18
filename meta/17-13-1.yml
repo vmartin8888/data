@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 17: Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 17.13: Aumentar la estabilidad macroeconómica mundial, incluso mediante la coordinación y coherencia de las políticas.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 17.13.1: Tablero macroeconómico.</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/17.13.1.18.pdf' target='_blank'>Serie 17.13.1.18: Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/17.13.1.19.pdf' target='_blank'>Serie 17.13.1.19: Ingresos fiscales de las administraciones públicas autonómicas en proporción al PIB.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/17.13.1.2.pdf' target='_blank'>Serie 17.13.1.2: Tasa de variación interanual del PIB real.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/17.13.1.20.pdf' target='_blank'>Serie 17.13.1.20: Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/17.13.1.8.pdf' target='_blank'>Serie 17.13.1.8: Tasa de desempleo.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/17.13.1.9.pdf' target='_blank'>Serie 17.13.1.9: Tasa de variación interanual del índice de precios de consumo.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 17.13.1.18: Porcentaje.</a> <br> <a>Serie 17.13.1.19: Porcentaje.</a> <br> <a>Serie 17.13.1.2: Porcentaje.</a> <br> <a>Serie 17.13.1.20: Porcentaje.</a> <br> <a>Serie 17.13.1.8: Porcentaje.</a> <br> <a>Serie 17.13.1.9: Porcentaje.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 17.13.1.18: Deuda pública según el protocolo de déficit excesivo, Banco de España. Contabilidad regional de España, Instituto Nacional de Estadística (INE).</a> <br> <a>Serie 17.13.1.19: Operaciones no financieras del sector administraciones públicas y sus subsectores, Ministerio de Hacienda y Función Pública.</a> <br> <a>Serie 17.13.1.2: Contabilidad regional de España, Instituto Nacional de Estadística (INE).</a> <br> <a>Serie 17.13.1.20: Operaciones no financieras del sector administraciones públicas y sus subsectores, Ministerio de Hacienda y Función Pública.</a> <br> <a>Serie 17.13.1.8: Encuesta de población activa, INE.</a> <br> <a>Serie 17.13.1.9: Índice de precios de consumo, Instituto Nacional de Estadística (INE).</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 

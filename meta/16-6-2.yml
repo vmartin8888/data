@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 16: Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 16.6: Crear a todos los niveles instituciones eficaces y transparentes que rindan cuentas.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 16.6.2: Proporción de la población que se siente satisfecha con su última experiencia de los servicios públicos.</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/16.6.2.1.a.pdf' target='_blank'>Serie 16.6.2.1.a: Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de enseñanza.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.6.2.1.b.pdf' target='_blank'>Serie 16.6.2.1.b: Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de asistencia sanitaria.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.6.2.1.c.pdf' target='_blank'>Serie 16.6.2.1.c: Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de gestión de pensiones.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.6.2.1.d.pdf' target='_blank'>Serie 16.6.2.1.d: Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de administración de justicia.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.6.2.1.e.pdf' target='_blank'>Serie 16.6.2.1.e: Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de seguridad ciudadana.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.6.2.1.f.pdf' target='_blank'>Serie 16.6.2.1.f: Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de servicios sociales.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.6.2.1.g.pdf' target='_blank'>Serie 16.6.2.1.g: Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de transporte público.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.6.2.1.h.pdf' target='_blank'>Serie 16.6.2.1.h: Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de obras públicas.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.6.2.1.i.pdf' target='_blank'>Serie 16.6.2.1.i: Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de ayuda a personas dependientes.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.6.2.1.pdf' target='_blank'>Serie 16.6.2.1: Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 16.6.2.1: Porcentaje.</a> <br> <a>Serie 16.6.2.1.a: Porcentaje.</a> <br> <a>Serie 16.6.2.1.b: Porcentaje.</a> <br> <a>Serie 16.6.2.1.c: Porcentaje.</a> <br> <a>Serie 16.6.2.1.d: Porcentaje.</a> <br> <a>Serie 16.6.2.1.e: Porcentaje.</a> <br> <a>Serie 16.6.2.1.f: Porcentaje.</a> <br> <a>Serie 16.6.2.1.g: Porcentaje.</a> <br> <a>Serie 16.6.2.1.h: Porcentaje.</a> <br> <a>Serie 16.6.2.1.i: Porcentaje.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 16.6.2.1: Opinión pública y política fiscal, Centro de Investigaciones Sociológicas.</a> <br> <a>Serie 16.6.2.1.a: Opinión pública y política fiscal, Centro de Investigaciones Sociológicas.</a> <br> <a>Serie 16.6.2.1.b: Opinión pública y política fiscal, Centro de Investigaciones Sociológicas.</a> <br> <a>Serie 16.6.2.1.c: Opinión pública y política fiscal, Centro de Investigaciones Sociológicas.</a> <br> <a>Serie 16.6.2.1.d: Opinión pública y política fiscal, Centro de Investigaciones Sociológicas.</a> <br> <a>Serie 16.6.2.1.e: Opinión pública y política fiscal, Centro de Investigaciones Sociológicas.</a> <br> <a>Serie 16.6.2.1.f: Opinión pública y política fiscal, Centro de Investigaciones Sociológicas.</a> <br> <a>Serie 16.6.2.1.g: Opinión pública y política fiscal, Centro de Investigaciones Sociológicas.</a> <br> <a>Serie 16.6.2.1.h: Opinión pública y política fiscal, Centro de Investigaciones Sociológicas.</a> <br> <a>Serie 16.6.2.1.i: Opinión pública y política fiscal, Centro de Investigaciones Sociológicas.</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 

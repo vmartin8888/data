@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 16: Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 16.7: Garantizar la adopción en todos los niveles de decisiones inclusivas, participativas y representativas que respondan a las necesidades.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 16.7.1: Proporciones de plazas en las instituciones nacionales y locales, entre ellas: a) las asambleas legislativas, b) la administración pública y c) el poder judicial, en comparación con la distribución nacional, desglosadas por sexo, edad, personas con discapacidad y grupos de población.</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/16.7.1.1.pdf' target='_blank'>Serie 16.7.1.1: Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.7.1.10.pdf' target='_blank'>Serie 16.7.1.10: Ratio de la proporción de mujeres en las instituciones sanitarias autonómicas respecto a la proporción de mujeres en la población entre 16 y 64 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.7.1.11.pdf' target='_blank'>Serie 16.7.1.11: Ratio de la proporción de mujeres en las universidades respecto a la proporción de mujeres en la población entre 16 y 64 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.7.1.12.pdf' target='_blank'>Serie 16.7.1.12: Ratio de la proporción de mujeres en el sector público local respecto a la proporción de mujeres en la población entre 16 y 64 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.7.1.13.pdf' target='_blank'>Serie 16.7.1.13: Ratio de la proporción de mujeres en los ayuntamientos respecto a la proporción de mujeres en la población entre 16 y 64 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.7.1.14.pdf' target='_blank'>Serie 16.7.1.14: Ratio de la proporción de mujeres en las diputaciones, cabildos y consejos insulares respecto a la proporción de mujeres en la población entre 16 y 64 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.7.1.2.pdf' target='_blank'>Serie 16.7.1.2: Ratio de la proporción de mujeres en el sector público estatal respecto a la proporción de mujeres en la población entre 16 y 64 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.7.1.3.pdf' target='_blank'>Serie 16.7.1.3: Ratio de la proporción de mujeres en las Fuerzas y Cuerpos de Seguridad del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.7.1.4.pdf' target='_blank'>Serie 16.7.1.4: Ratio de la proporción de mujeres en las Fuerzas Armadas respecto a la proporción de mujeres en la población entre 16 y 64 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.7.1.5.pdf' target='_blank'>Serie 16.7.1.5: Ratio de la proporción de mujeres en la Administración de Justicia del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.7.1.6.pdf' target='_blank'>Serie 16.7.1.6: Ratio de la proporción de mujeres en el sector público autonómico respecto a la proporción de mujeres en la población entre 16 y 64 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.7.1.8.pdf' target='_blank'>Serie 16.7.1.8: Ratio de la proporción de mujeres en la Administración de Justicia Autonómica respecto a la proporción de mujeres en la población entre 16 y 64 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.7.1.9.pdf' target='_blank'>Serie 16.7.1.9: Ratio de la proporción de mujeres en los centros educativos no universitarios autonómicos respecto a la proporción de mujeres en la población entre 16 y 64 años.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 16.7.1.1: Índice.</a> <br> <a>Serie 16.7.1.10: Índice.</a> <br> <a>Serie 16.7.1.11: Índice.</a> <br> <a>Serie 16.7.1.12: Índice.</a> <br> <a>Serie 16.7.1.13: Índice.</a> <br> <a>Serie 16.7.1.14: Índice.</a> <br> <a>Serie 16.7.1.2: Índice.</a> <br> <a>Serie 16.7.1.3: Índice.</a> <br> <a>Serie 16.7.1.4: Índice.</a> <br> <a>Serie 16.7.1.5: Índice.</a> <br> <a>Serie 16.7.1.6: Índice.</a> <br> <a>Serie 16.7.1.8: Índice.</a> <br> <a>Serie 16.7.1.9: Índice.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 16.7.1.1: Boletín Estadístico del personal al servicio de las Administraciones Públicas. Ministerio de Política Territorial..</a> <br> <a>Serie 16.7.1.10: Boletín Estadístico del personal al servicio de las Administraciones Públicas. Ministerio de Política Territorial..</a> <br> <a>Serie 16.7.1.11: Boletín Estadístico del personal al servicio de las Administraciones Públicas. Ministerio de Política Territorial..</a> <br> <a>Serie 16.7.1.12: Boletín Estadístico del personal al servicio de las Administraciones Públicas. Ministerio de Política Territorial..</a> <br> <a>Serie 16.7.1.13: Boletín Estadístico del personal al servicio de las Administraciones Públicas. Ministerio de Política Territorial..</a> <br> <a>Serie 16.7.1.14: Boletín Estadístico del personal al servicio de las Administraciones Públicas. Ministerio de Política Territorial..</a> <br> <a>Serie 16.7.1.2: Boletín Estadístico del personal al servicio de las Administraciones Públicas. Ministerio de Política Territorial..</a> <br> <a>Serie 16.7.1.3: Boletín Estadístico del personal al servicio de las Administraciones Públicas. Ministerio de Política Territorial..</a> <br> <a>Serie 16.7.1.4: Boletín Estadístico del personal al servicio de las Administraciones Públicas. Ministerio de Política Territorial..</a> <br> <a>Serie 16.7.1.5: Boletín Estadístico del personal al servicio de las Administraciones Públicas. Ministerio de Política Territorial..</a> <br> <a>Serie 16.7.1.6: Boletín Estadístico del personal al servicio de las Administraciones Públicas. Ministerio de Política Territorial..</a> <br> <a>Serie 16.7.1.8: Boletín Estadístico del personal al servicio de las Administraciones Públicas. Ministerio de Política Territorial..</a> <br> <a>Serie 16.7.1.9: Boletín Estadístico del personal al servicio de las Administraciones Públicas. Ministerio de Política Territorial..</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 
