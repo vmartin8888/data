@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 3: Garantizar una vida sana y promover el bienestar de todos a todas las edades.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 3.b: Apoyar las actividades de investigación y desarrollo de vacunas y medicamentos contra las enfermedades transmisibles y no transmisibles que afectan primordialmente a los países en desarrollo y facilitar el acceso a medicamentos y vacunas esenciales asequibles de conformidad con la Declaración relativa al Acuerdo sobre los Aspectos de los Derechos de Propiedad Intelectual Relacionados con el Comercio y la Salud Pública, en la que se afirma el derecho de los países en desarrollo a utilizar al máximo las disposiciones del Acuerdo sobre los Aspectos de los Derechos de Propiedad Intelectual Relacionados con el Comercio respecto a la flexibilidad para proteger la salud pública y, en particular, proporcionar acceso a los medicamentos para todos.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 3.b.1: Proporción de la población inmunizada con todas las vacunas incluidas en cada programa nacional.</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/3.b.1.1.pdf' target='_blank'>Serie 3.b.1.1: Cobertura de vacunación de recuerdo contra difteria, tétanos y tosferina en la población infantil.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/3.b.1.3.pdf' target='_blank'>Serie 3.b.1.3: Cobertura de vacunación de recuerdo contra neumococo en la población infantil.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/3.b.1.4.pdf' target='_blank'>Serie 3.b.1.4: Cobertura de vacunación de segunda dosis contra sarampión, rubeola y parotiditis en la población infantil.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/3.b.1.5.pdf' target='_blank'>Serie 3.b.1.5: Cobertura de vacunación de segunda dosis contra papiloma humano en las adolescentes.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 3.b.1.1: Porcentaje.</a> <br> <a>Serie 3.b.1.3: Porcentaje.</a> <br> <a>Serie 3.b.1.4: Porcentaje.</a> <br> <a>Serie 3.b.1.5: Porcentaje.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 3.b.1.1: Estadística de vacunaciones sistemáticas, Ministerio de Sanidad.</a> <br> <a>Serie 3.b.1.3: Estadística de vacunaciones sistemáticas, Ministerio de Sanidad.</a> <br> <a>Serie 3.b.1.4: Estadística de vacunaciones sistemáticas, Ministerio de Sanidad.</a> <br> <a>Serie 3.b.1.5: Estadística de vacunaciones sistemáticas, Ministerio de Sanidad.</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 

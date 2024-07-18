@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 5: Lograr la igualdad de género y empoderar a todas las mujeres y las niñas.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 5.5: Asegurar la participación plena y efectiva de las mujeres y la igualdad de oportunidades de liderazgo a todos los niveles decisorios en la vida política, económica y pública.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 5.5.1: Proporción de escaños ocupados por mujeres en a) los parlamentos nacionales y b) los gobiernos locales.</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/5.5.1.0.pdf' target='_blank'>Serie 5.5.1.0: Proporción de escaños ocupados por mujeres en los parlamentos autonómicos.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/5.5.1.3.pdf' target='_blank'>Serie 5.5.1.3: Proporción de consejerías ocupadas por mujeres en los gobiernos autonómicos.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/5.5.1.4.pdf' target='_blank'>Serie 5.5.1.4: Proporción de alcaldías ocupadas por mujeres en los gobiernos locales.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/5.5.1.5.pdf' target='_blank'>Serie 5.5.1.5: Proporción de concejalías ocupadas por mujeres en los gobiernos locales.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 5.5.1.0: Porcentaje.</a> <br> <a>Serie 5.5.1.3: Porcentaje.</a> <br> <a>Serie 5.5.1.4: Porcentaje.</a> <br> <a>Serie 5.5.1.5: Porcentaje.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 5.5.1.0: Mujeres en cifras, Ministerio de Igualdad.</a> <br> <a>Serie 5.5.1.3: Mujeres en cifras, Ministerio de Igualdad.</a> <br> <a>Serie 5.5.1.4: Mujeres en cifras, Ministerio de Igualdad.</a> <br> <a>Serie 5.5.1.5: Mujeres en cifras, Ministerio de Igualdad.</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 

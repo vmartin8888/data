@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 3: Garantizar una vida sana y promover el bienestar de todos a todas las edades.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 3.5: Fortalecer la prevención y el tratamiento del abuso de sustancias adictivas, incluido el uso indebido de estupefacientes y el consumo nocivo de alcohol.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 3.5.1: Cobertura de los tratamientos(farmacológicos y psicosociales y servicios de rehabilitación y postratamiento) de trastornos por abuso de sustancias adictivas.</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/3.5.1.1_1.pdf' target='_blank'>Serie 3.5.1.1_1: Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/3.5.1.1_2.pdf' target='_blank'>Serie 3.5.1.1_2: Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/3.5.1.1.pdf' target='_blank'>Serie 3.5.1.1: Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/3.5.1.2_1.pdf' target='_blank'>Serie 3.5.1.2_1: Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/3.5.1.2_2.pdf' target='_blank'>Serie 3.5.1.2_2: Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/3.5.1.2.pdf' target='_blank'>Serie 3.5.1.2: Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 3.5.1.1_1: Por 100.000.</a> <br> <a>Serie 3.5.1.1_2: Por 100.000.</a> <br> <a>Serie 3.5.1.1: Por 100.000.</a> <br> <a>Serie 3.5.1.2_1: Por 100.000.</a> <br> <a>Serie 3.5.1.2_2: Por 100.000.</a> <br> <a>Serie 3.5.1.2: Por 100.000.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 3.5.1.1_1: Indicadores de Consumo de Sustancias Psicoactivas del Observatorio Español de las Drogas y las Adicciones: Admisiones a Tratamiento, Ministerio de Sanidad..</a> <br> <a>Serie 3.5.1.1_2: Indicadores de Consumo de Sustancias Psicoactivas del Observatorio Español de las Drogas y las Adicciones: Admisiones a Tratamiento, Ministerio de Sanidad..</a> <br> <a>Serie 3.5.1.1: Indicadores de Consumo de Sustancias Psicoactivas del Observatorio Español de las Drogas y las Adicciones: Admisiones a Tratamiento, Ministerio de Sanidad..</a> <br> <a>Serie 3.5.1.2_1: Indicadores de Consumo de Sustancias Psicoactivas del Observatorio Español de las Drogas y las Adicciones: Admisiones a Tratamiento, Ministerio de Sanidad..</a> <br> <a>Serie 3.5.1.2_2: Indicadores de Consumo de Sustancias Psicoactivas del Observatorio Español de las Drogas y las Adicciones: Admisiones a Tratamiento, Ministerio de Sanidad..</a> <br> <a>Serie 3.5.1.2: Indicadores de Consumo de Sustancias Psicoactivas del Observatorio Español de las Drogas y las Adicciones: Admisiones a Tratamiento, Ministerio de Sanidad..</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 
