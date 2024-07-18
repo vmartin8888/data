@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 2: Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 2.2: De aquí a 2030, poner fin a todas las formas de malnutrición, incluso logrando, a más tardar en 2025, las metas convenidas internacionalmente sobre el retraso del crecimiento y la emaciación de los niños menores de 5 años, y abordar las necesidades de nutrición de las adolescentes, las mujeres embarazadas y lactantes y las personas de edad.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 2.2.2: Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso).</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/2.2.2.1.pdf' target='_blank'>Serie 2.2.2.1: Proporción de menores entre 2 y 17 años con obesidad, sobrepeso o peso insuficiente.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 2.2.2.1: Porcentaje.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 2.2.2.1: Encuesta nacional de salud, Ministerio de Sanidad, Consumo y Bienestar Social.</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 

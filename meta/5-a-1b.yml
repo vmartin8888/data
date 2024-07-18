@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 5: Lograr la igualdad de género y empoderar a todas las mujeres y las niñas.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 5.a: Emprender reformas que otorguen a las mujeres igualdad de derechos a los recursos económicos, así como acceso a la propiedad y al control de la tierra y otros tipos de bienes, los servicios financieros, la herencia y los recursos naturales, de conformidad con las leyes nacionales.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 5.a.1b: Proporción de mujeres entre los propietarios o los titulares de derechos sobre tierras agrícolas, desglosada por tipo de tenencia.</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/5.a.1b.1.pdf' target='_blank'>Serie 5.a.1b.1: Proporción de mujeres titulares de explotaciones agrícolas, respecto al total de titulares de explotaciones agrícolas.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/5.a.1b.2.pdf' target='_blank'>Serie 5.a.1b.2: Proporción de mujeres titulares de explotaciones agrícolas en propiedad, respecto al total de titulares de explotaciones agrícolas en propiedad.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/5.a.1b.3.pdf' target='_blank'>Serie 5.a.1b.3: Proporción de mujeres titulares de explotaciones agrícolas en arrendamiento, respecto al total de titulares de explotaciones agrícolas en arrendamiento.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 5.a.1b.1: Porcentaje.</a> <br> <a>Serie 5.a.1b.2: Porcentaje.</a> <br> <a>Serie 5.a.1b.3: Porcentaje.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 5.a.1b.1: Encuesta sobre la estructura de las explotaciones agrícolas, INE.</a> <br> <a>Serie 5.a.1b.2: Encuesta sobre la estructura de las explotaciones agrícolas, INE.</a> <br> <a>Serie 5.a.1b.3: Encuesta sobre la estructura de las explotaciones agrícolas, INE.</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 

@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 4: Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 4.2: De aquí a 2030, asegurar que todas las niñas y todos los niños tengan acceso a servicios de atención y desarrollo en la primera infancia y educación preescolar de calidad, a fin de que estén preparados para la enseñanza primaria.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 4.2.2: Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo.</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/4.2.2.1.pdf' target='_blank'>Serie 4.2.2.1: Tasa neta de escolarización a los 5 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/4.2.2.2.pdf' target='_blank'>Serie 4.2.2.2: Tasa neta de escolarización de los niños de 5 años.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/4.2.2.3.pdf' target='_blank'>Serie 4.2.2.3: Tasa neta de escolarización de las niñas de 5 años.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 4.2.2.1: Porcentaje.</a> <br> <a>Serie 4.2.2.2: Porcentaje.</a> <br> <a>Serie 4.2.2.3: Porcentaje.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 4.2.2.1: Estadística de enseñanzas no universitarias, Ministerio de Educación y Formación Profesional.</a> <br> <a>Serie 4.2.2.2: Estadística de enseñanzas no universitarias, Ministerio de Educación y Formación Profesional.</a> <br> <a>Serie 4.2.2.3: Estadística de enseñanzas no universitarias, Ministerio de Educación y Formación Profesional.</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 
