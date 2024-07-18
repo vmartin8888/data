@@ -12,7 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                "Kilotoneladas",
+                "Kilogramos",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible",
+                "Emisiones de amoníaco de la agricultura y ganadería",
+                "Emisiones de amoníaco por hectárea de la agricultura y ganadería",
+                "Emisiones de amoníaco de la agricultura",
+                "Emisiones de amoníaco por hectárea de la agricultura",
+                "Emisiones de amoníaco de la ganadería",
+                "Emisiones de amoníaco por hectárea de la ganadería",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

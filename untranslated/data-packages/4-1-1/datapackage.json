@@ -12,7 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura",
+                "Proporción de hombres de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura",
+                "Proporción de mujeres de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura",
+                "Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en matemáticas",
+                "Proporción de hombres de 15 años que han alcanzado al menos el nivel 2 de competencia en matemáticas",
+                "Proporción de mujeres de 15 años que han alcanzado al menos el nivel 2 de competencia en matemáticas",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aragón",
+                "España",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
