@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 16: Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 16.2: Poner fin al maltrato, la explotación, la trata y todas las formas de violencia y tortura contra los niños.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 16.2.2: Número de víctimas de la trata de personas por cada 100.000 habitantes, desglosado por sexo, edad y tipo de explotación.</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/16.2.2.1.pdf' target='_blank'>Serie 16.2.2.1: Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.2.2.2.pdf' target='_blank'>Serie 16.2.2.2: Número de víctimas detectadas de tráfico de personas para explotación sexual por cada 100.000 habitantes.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.2.2.3.pdf' target='_blank'>Serie 16.2.2.3: Número de víctimas detectadas de tráfico de personas para explotación laboral por cada 100.000 habitantes.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.2.2.4.pdf' target='_blank'>Serie 16.2.2.4: Número de víctimas detectadas de tráfico de personas para la obtención de órganos por cada 100.000 habitantes.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/16.2.2.5.pdf' target='_blank'>Serie 16.2.2.5: Número de víctimas detectadas de tráfico de personas para otros fines (matrimonios forzados, criminalidad forzada o mendicidad) por cada 100.000 habitantes.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 16.2.2.1: Por 100.000.</a> <br> <a>Serie 16.2.2.2: Por 100.000.</a> <br> <a>Serie 16.2.2.3: Por 100.000.</a> <br> <a>Serie 16.2.2.4: Por 100.000.</a> <br> <a>Serie 16.2.2.5: Por 100.000.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 16.2.2.1: Trata y explotación de seres humanos en España. Balance estadístico, Ministerio del Interior.</a> <br> <a>Serie 16.2.2.2: Trata y explotación de seres humanos en España. Balance estadístico, Ministerio del Interior.</a> <br> <a>Serie 16.2.2.3: Trata y explotación de seres humanos en España. Balance estadístico, Ministerio del Interior.</a> <br> <a>Serie 16.2.2.4: Trata y explotación de seres humanos en España. Balance estadístico, Ministerio del Interior.</a> <br> <a>Serie 16.2.2.5: Trata y explotación de seres humanos en España. Balance estadístico, Ministerio del Interior.</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 

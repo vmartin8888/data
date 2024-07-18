@@ -1,0 +1,106 @@
+SDG_INDICATOR__GLOBAL: >- 
+  
+SDG_TARGET__GLOBAL: >- 
+  
+META_LAST_UPDATE__GLOBAL: >- 
+  
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >- 
+  
+SDG_RELATED_INDICATORS__GLOBAL: >- 
+  
+SDG_INDICATOR_INFO: >- 
+  
+SDG_GOAL: >- 
+  <p>Objetivo 17: Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible.</p>
+
+SDG_TARGET: >- 
+  <p>Meta 17.3: Movilizar recursos financieros adicionales de múltiples fuentes para los países en desarrollo.</p>
+
+SDG_INDICATOR: >- 
+  <p>Indicador 17.3.1: Inversión extranjera directa, asistencia oficial para el desarrollo y cooperación Sur-Sur como proporción del ingreso nacional bruto.</p>
+
+SDG_SERIES_DESCR: >- 
+  <a href='https://ods-aragon.github.io/descargas/fichas/17.13.1.10.pdf' target='_blank'>Serie 17.13.1.10: Volumen de remesas enviadas al extranjero en proporción al PIB.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/17.3.1.1_1.pdf' target='_blank'>Serie 17.3.1.1_1: Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/17.3.1.1_2.pdf' target='_blank'>Serie 17.3.1.1_2: Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/17.3.1.2_1.pdf' target='_blank'>Serie 17.3.1.2_1: Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB.</a> <br> <a href='https://ods-aragon.github.io/descargas/fichas/17.3.1.2_2.pdf' target='_blank'>Serie 17.3.1.2_2: Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales en proporción al PIB.</a>
+
+META_LAST_UPDATE: >- 
+  <p>14-05-2022</p>
+
+SDG_RELATED_INDICATORS: >- 
+  
+CONTACT: >- 
+  
+CONTACT_ORGANISATION: >- 
+  <p>Instituto Aragones de Estadistica (IAEST)</p>
+
+CONTACT_NAME: >- 
+  
+ORGANISATION_UNIT: >- 
+  
+CONTACT_FUNCT: >- 
+
+CONTACT_PHONE: >- 
+  
+CONTACT_MAIL: >- 
+  
+CONTACT_EMAIL: >- 
+  <p>iaest@aragon.es</p>
+
+IND_DEF_CON_CLASS: >- 
+  
+STAT_CONC_DEF: >- 
+  
+UNIT_MEASURE: >- 
+  <a>Serie 17.13.1.10: Porcentaje.</a> <br> <a>Serie 17.3.1.1_1: Millones de euros.</a> <br> <a>Serie 17.3.1.1_2: Millones de euros.</a> <br> <a>Serie 17.3.1.2_1: Porcentaje.</a> <br> <a>Serie 17.3.1.2_2: Porcentaje.</a>
+
+CLASS_SYSTEM: >- 
+  
+SRC_TYPE_COLL_METHOD: >- 
+  
+SOURCE_TYPE: >- 
+  <a>Serie 17.13.1.10: Balanza de pagos, Banco de España.Estadística del Padrón continuo, Instituto Nacional de Estadística (INE).Contabilidad regional de España, Instituto Nacional de Estadística (INE).</a> <br> <a>Serie 17.3.1.1_1: Registro de inversiones exteriores, Ministerio de Industria, Comercio y Turismo.</a> <br> <a>Serie 17.3.1.1_2: Estadística de Ayuda Oficial al Desarrolllo de España, Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.</a> <br> <a>Serie 17.3.1.2_1: Registro de inversiones exteriores, Ministerio de Industria, Comercio y Turismo.Contabilidad regional de España, Instituto Nacional de Estadística (INE).</a> <br> <a>Serie 17.3.1.2_2: Estadística de Ayuda Oficial al Desarrolllo de España, Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.Contabilidad regional de España, Instituto Nacional de Estadística (INE).</a>
+
+COLL_METHOD: >- 
+  
+FREQ_COLL: >- 
+  <p>Anualmente</p>
+
+REL_CAL_POLICY: >- 
+  <p>Durante el primer trimestre del año</p>
+
+DATA_SOURCE: >- 
+  
+COMPILING_ORG: >- 
+  
+INST_MANDATE: >- 
+  
+OTHER_METHOD: >- 
+  
+RATIONALE: >- 
+  
+REC_USE_LIM: >- 
+  
+DATA_COMP: >- 
+  
+DATA_VALIDATION: >- 
+  <p>Grupo de las oficinas centrales de estadística de las Comunidades Autónomas (OCECAS)</p>
+
+DOC_METHOD: >- 
+  
+QUALITY_MGMNT: >- 
+  
+QUALITY_ASSURE: >- 
+  
+QUALITY_ASSMNT: >- 
+  
+COVERAGE: >- 
+  
+COMPARABILITY: >- 
+  
+OTHER_DOC: >- 
+  
+national_data_updated_date: >- 
+  
+national_metadata_updated_date: >- 
+  
+un_designated_tier: >- 
+ 
