@@ -1099,7 +1099,7 @@
           }
         ]
       },
-      "title": "5-a-1a"
+      "title": "global_indicators.5-a-1a-title"
     },
     {
       "path": "8-6-1/data.csv",
@@ -4491,7 +4491,7 @@
           }
         ]
       },
-      "title": "5-a-1b"
+      "title": "global_indicators.5-a-1b-title"
     },
     {
       "path": "7-2-1/data.csv",
